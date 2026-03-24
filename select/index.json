@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "好き",
+  "base_artist": "西野カナ",
+  "createdAt": "2026-03-24T08:00:48.007592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好き、以外の言葉で",
+      "artist": "小糸 侑(CV:高田憂希)、七海燈子(CV:寿 美菜子)",
+      "has_synced": true,
+      "path": "select/01_好き、以外の言葉で_小糸_侑(CV_高田憂希)、七海燈子(CV_寿_美菜子).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好き、以外の言葉で",
+      "artist": "小糸侑(CV:高田憂希)、七海燈子(CV:寿美菜子)",
+      "has_synced": true,
+      "path": "select/02_好き、以外の言葉で_小糸侑(CV_高田憂希)、七海燈子(CV_寿美菜子).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好き",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/03_好き_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好き、以外の言葉で",
+      "artist": "小糸 侑(CV:高田憂希) 七海燈子(CV:寿 美菜子)",
+      "has_synced": true,
+      "path": "select/04_好き、以外の言葉で_小糸_侑(CV_高田憂希)_七海燈子(CV_寿_美菜子).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好き",
+      "artist": "Say a Little Prayer",
+      "has_synced": false,
+      "path": "select/05_好き_Say_a_Little_Prayer.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/06_好き!雪!本気マジック_Mitchie_M_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック",
+      "artist": "Mitchie M",
+      "has_synced": false,
+      "path": "select/07_好き!雪!本気マジック_Mitchie_M.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "好き...でもリベンジ",
+      "artist": "田村ゆかり",
+      "has_synced": false,
+      "path": "select/08_好き...でもリベンジ_田村ゆかり.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "好き…でもリベンジ",
+      "artist": "Tamura, Yukari",
+      "has_synced": false,
+      "path": "select/09_好き...でもリベンジ_Tamura,_Yukari.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック",
+      "artist": "Mitchie M; 初音ミク",
+      "has_synced": false,
+      "path": "select/10_好き!雪!本気マジック_Mitchie_M;_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "好き",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/11_好き_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "『好き』という言葉 -Album Version 2011-",
+      "artist": "菅原紗由理",
+      "has_synced": false,
+      "path": "select/12_『好き』という言葉_-Album_Version_2011-_菅原紗由理.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "好き! 雪! 本気マジック",
+      "artist": "Mitchie M/初音ミク",
+      "has_synced": false,
+      "path": "select/13_好き!_雪!_本気マジック_Mitchie_M_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "好き！雪！本気マジック",
+      "artist": "Mitchie M feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/14_好き!雪!本気マジック_Mitchie_M_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "好き！雪！本気マジック feat. Hatsune Miku",
+      "artist": "Mitchie M",
+      "has_synced": false,
+      "path": "select/15_好き!雪!本気マジック_feat._Hatsune_Miku_Mitchie_M.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "好き",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/16_好き_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "好き! 雪! 本気マジック",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/17_好き!_雪!_本気マジック_Mitchie_M_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "好き!雪!本気マジック feat. 初音ミク",
+      "artist": "Mitchie M, Hatsune Miku",
+      "has_synced": false,
+      "path": "select/18_好き!雪!本気マジック_feat._初音ミク_Mitchie_M,_Hatsune_Miku.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好き",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_好き_西野_カナ.txt"
+    }
+  ]
+}
